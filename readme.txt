@@ -37,7 +37,7 @@ For more information see [http://johannes.jarolim.com/wordpress/jp-admin-stylish
 
 == Frequently Asked Questions ==
 
-Have a look at [http://johannes.jarolim.com/yapb](http://johannes.jarolim.com/yapb "The plugins homepage").
+Have a look at [http://johannes.jarolim.com/wordpress/jp-admin-stylishblue](http://johannes.jarolim.com/wordpress/jp-admin-stylishblue "The plugins homepage").
 
 
 
