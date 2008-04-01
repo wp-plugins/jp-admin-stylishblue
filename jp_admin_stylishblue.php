@@ -5,7 +5,7 @@
 	Plugin URI: http://johannes.jarolim.com
 	Description: Add the new custom admin CSS Scheme "Stylish Blue" to your blog
 	Author: J.P.Jarolim
-	Version: 1.0
+	Version: 1.1
 	Author URI: http://johannes.jarolim.com
 	*/
 
