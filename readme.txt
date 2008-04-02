@@ -4,7 +4,7 @@ Contributors: jaroat
 Tags: admin, admin interface, custom style, custom color scheme, colors, scheme, blue
 Requires at least: 2.5
 Tested up to: 2.5
-Stable tag: 1.1
+Stable tag: 1.2
 
 The 2.5 admin interface officially pimped.
 
