@@ -4,23 +4,26 @@ Contributors: jaroat
 Tags: admin, admin interface, custom style, custom color scheme, colors, scheme, blue
 Requires at least: 2.5
 Tested up to: 2.5
-Stable tag: 1.2
+Stable tag: 1.3
 
-The 2.5 admin interface officially pimped.
+Your 2.5 admin interface was officially pimped.
 
 
 
 
 == Description ==
 
-Add the additional color scheme "Stylish Blue" to your admin area. This custom style bases on the classic WordPress color scheme and was pimped up a little bit for more style, clearness and readability.
+Adds the additional color scheme "Stylish Blue" to your admin area. This custom style bases on the classic WordPress color scheme and was pimped up a little bit for more style, clearness and readability.
+
 
 
 
 
 = More Information =
 
-For more information see [http://johannes.jarolim.com/wordpress/jp-admin-stylishblue](http://johannes.jarolim.com/wordpress/jp-admin-stylishblue "The plugins homepage").
+For more information, questions or feedback go to [http://johannes.jarolim.com/jp-admin-stylishblue](http://johannes.jarolim.com/jp-admin-stylishblue "The plugins homepage").
+
+
 
 
 
@@ -35,10 +38,6 @@ For more information see [http://johannes.jarolim.com/wordpress/jp-admin-stylish
 
 
 
-== Frequently Asked Questions ==
-
-Have a look at [http://johannes.jarolim.com/wordpress/jp-admin-stylishblue](http://johannes.jarolim.com/wordpress/jp-admin-stylishblue "The plugins homepage").
-
 
 
 == Screenshots ==
@@ -49,7 +48,32 @@ Have a look at [http://johannes.jarolim.com/wordpress/jp-admin-stylishblue](http
 4. Manage Comments
 5. General Settings
 
+
+
+
+
+
 == Changelog ==
+
+= 2008-04-02, Release 1.3 =
+
+Final Brushup
+
+* Created Directories for images and css
+* Corrected filenames
+* Adapted readme.txt
+* Added function prefix "jp_"
+* Added GPL Notice
+
+Enjoy!
+
+= 2008-04-02, Release 1.2 =
+
+Minor changes, typos
+
+= 2008-04-01, Release 1.1 =
+
+Minor changes, typos
 
 = 2008-03-31, Release 1.0 =
 

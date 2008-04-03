@@ -1,4 +1,4 @@
-@import url(../../../wp-admin/css/colors-classic.css);
+@import url(../../../../wp-admin/css/colors-classic.css);
 
 .wrap h2 {
 	color:black;
@@ -8,18 +8,18 @@
 }
 
 #wphead {
-	background:#114875 url(wphead-background.gif) bottom repeat-x;
+	background:#114875 url(../images/wphead-background.gif) bottom repeat-x;
 	color:#3005eb;
 }
 
 #adminmenu {
-	background:black url(adminmenu-background.gif) top repeat-x;
+	background:black url(../images/adminmenu-background.gif) top repeat-x;
 }
 
 	/** default **/
 
 	#adminmenu li a #awaiting-mod {
-		background-image: url(comment-stalk-classic.gif);
+		background-image: url(../images/comment-stalk-classic.gif);
 		color:black;
 	}
 
@@ -36,7 +36,7 @@
 	/** current **/
 
 	#adminmenu li a.current #awaiting-mod {
-		background-image:url(comment-stalk-classic-current.gif);
+		background-image:url(../images/comment-stalk-classic-current.gif);
 		color:black;
 	}
 
