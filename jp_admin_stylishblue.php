@@ -34,6 +34,7 @@
 	*/
 
 	add_action('admin_init','jp_custom_admin_css');
+	add_action('admin_head','jp_custom_admin_css_ie');
 	add_action('login_head', 'jp_custom_login_css');
 
 	function jp_custom_admin_css() {
@@ -52,6 +53,11 @@
 			)
 		);
 
+	}
+
+	function jp_custom_admin_css_ie() {
+		$plugin_url = get_option( 'siteurl' ) . '/wp-content/plugins/' . plugin_basename(dirname(__FILE__)) ;
+		echo '<!--[if gte IE 6]>' . "\n" . '<link rel="stylesheet" href="' . $plugin_url . '/css/jp_admin_stylishblue_ie.css" type="text/css" />' . "\n" . '<![endif]-->' . "\n";
 	}
 
 	function jp_custom_login_css() {
